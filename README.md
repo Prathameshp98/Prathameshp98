@@ -1,35 +1,37 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Patil</h1>
-<h3 align="center">Frontend Engineer | React Specialist | UI-Obsessed Problem Solver</h3>
+<h3 align="center">Frontend Engineer | React Specialist | UI‑Obsessed Problem Solver</h3>
 
 ---
 
 🚀 Passionate about building **scalable, accessible, and performance-first** web applications.  
-👨‍💻 Currently building cool stuff at **HowNow** and exploring the power of **AI + frontend**.  
+👨‍💻 Currently contributing at **HowNow** and exploring the power of **AI + frontend**.  
 🌐 Portfolio: [prathameshpatil.in](https://prathameshpatil.in)
-
----
-
-### 🧑‍💻 About Me
-
-- 🔭 Working at [**HowNow**](https://www.gethownow.com) as a Frontend Engineer
-- 🌱 Currently diving deeper into **AWS**, **AI in UI**, and **frontend architecture**
-- 📈 Optimized apps used by **500K–1M+ users**, ensuring fast, inclusive, and global experiences
-- 🌍 Localized platforms in **32+ languages** using i18n
-- 💬 Ask me about **React**, **Next.js**, **web accessibility**, **performance**, or **SEO**
 
 ---
 
 ### 🛠 Tech Stack
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="40" height="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg" alt="Next.js" width="40" height="40" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" alt="TypeScript" width="40" height="40" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" alt="Tailwind" width="40" height="40" title="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/fastapi.svg" alt="FastAPI" width="40" height="40" title="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg" alt="Node.js" width="40" height="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" alt="MongoDB" width="40" height="40" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" alt="Git" width="40" height="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" alt="AWS" width="40" height="40" title="AWS" />
+</p>
+
+---
+
+### 🏅 Achievements
+
+Here are some of the GitHub achievements I’ve earned:
+
+<p align="center">
+  <img src="https://github.com/Prathameshp98.png?tab=achievements" alt="GitHub Achievements" />
+</p>
 
 ---
 
@@ -45,7 +47,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prathameshp98&show_icons=true&theme=tokyonight" />
@@ -56,12 +58,12 @@
 
 ### 📫 Let's Connect
 
-- ✉️ Email: [prathameshpatil2812@gmail.com](mailto:prathameshpatil2812@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/prathamesh-patil-988442197/)
-- 🌐 [Portfolio](https://prathameshpatil.in)
+- ✉️ Email: [prathameshpatil2812@gmail.com](mailto:prathameshpatil2812@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/prathamesh-patil-988442197/)  
+- 🌐 [Portfolio](https://prathameshpatil.in)  
 - 💻 [GitHub](https://github.com/Prathameshp98)
 
 ---
 
-> *“Design is not just what it looks like and feels like. Design is how it works.” — Steve Jobs*
+> *“Design is not just what it looks like and feels like. Design is how it works.” — Steve Jobs*
 
