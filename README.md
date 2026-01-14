@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Patil</h1>
-<h3 align="center">Frontend Engineer | React Specialist | UI-Obsessed Problem Solver</h3>
+<h3 align="center">Fullstack Engineer</h3>
 
 ---
 
